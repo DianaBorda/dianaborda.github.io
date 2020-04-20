@@ -24,5 +24,9 @@ Forward-thinking Data Scientist, with insatiable intellectual curiosity, capable
   
   #### Senior Geo Data Scientist
   Montreal, QC, Canada
-  
+  - Analyze, extract, transform and load (ETL) data from databases using de cloud environment (GCP – Cloud AI) to improve marketing    
+    techniques and business strategies
+  - Research new ways of modeling and predicting customer behavior  
+  - Analyze and build models (Regression, Classification) using python framework and Geospatial analysis (Cannibalization, Site 
+    Analysis- ESRI). 
   

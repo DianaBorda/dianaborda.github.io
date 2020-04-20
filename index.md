@@ -5,7 +5,7 @@
  - **GitHub**
    https://github.com/dianaborda
  - **LinkedIn**
-   https://www.linkedin.com/dianaborda
+   https://www.linkedin.com/in/diana-borda/
 
 #Any buzzword skills you want to include
 ### skills:

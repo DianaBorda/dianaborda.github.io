@@ -3,7 +3,7 @@
 
 ### primarylinks:
  - **GitHub**
-   https://github.com/dianaborda
+   [GitHub](https://github.com/dianaborda)
  - **LinkedIn**
    https://www.linkedin.com/in/diana-borda/
 

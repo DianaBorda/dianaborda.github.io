@@ -2,10 +2,10 @@
 ## Geo - datascientist 
 
 ### primarylinks:
- - **title:** GitHub
-   **url:** https://github.com/dianaborda
- - **title:** LinkedIn
-   **url:** https://www.linkedin.com/dianaborda
+ - **GitHub**
+   https://github.com/dianaborda
+ - **LinkedIn**
+   https://www.linkedin.com/dianaborda
 
 #Any buzzword skills you want to include
 ### skills:

@@ -20,7 +20,7 @@ Forward-thinking Data Scientist, with insatiable intellectual curiosity, capable
   - Machine learning 
   - Project management
   
- ### EXPERIENCE
+## EXPERIENCE
   
 #### Senior Geo Data Scientist
 Montreal, QC, Canada
